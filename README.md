@@ -84,3 +84,4 @@ docker-compose exec web python manage.py import_data
 http://130.193.40.60/api/v1/
 http://130.193.40.60/redoc/
 http://130.193.40.60/admin/
+# yamdb_final1
